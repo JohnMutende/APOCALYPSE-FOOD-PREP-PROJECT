@@ -19,13 +19,10 @@ This project involves analyzing Apocalypse Food Prep sales and customer data usi
   
 + **Recommendations** Provide recommendations based on product performance, customer behavior, pricing, and geographical sales patterns.
   **
-  
-  
   **Data Source**
 I extracted this dataset from a wide range of dataset in Kaggle
-
   **
   **Tools Used**
-  + Microsoft Excel
-   + Microsoft Power BI
+ + Microsoft Excel
+ + Power BI
 
